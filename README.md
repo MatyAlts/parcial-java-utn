@@ -10,8 +10,7 @@
 2. Abrir una terminal en la raíz del proyecto.
 3. Ejecuta:
    ```
-   gradlew.bat build
-   gradlew.bat run
+   app/src/main/java/parcial1/java/App.java App.main()
    ```
 
 La base de datos H2 se crea automáticamente en el archivo `appdb.mv.db`.
